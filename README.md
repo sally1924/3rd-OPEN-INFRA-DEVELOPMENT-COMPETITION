@@ -4,6 +4,12 @@
 
 주 최 : [맨텍 (manTech)](http://www.mantech.co.kr/)
 
+---
+
+팀 원 : [김범수](https://github.com/gh-BumsooKim)\* []()\*
+<br>Art & Technology, CAU
+<br>(* equal contributions) 
+
 ### Environment
 
 - Ubuntu 18.04 LTS Server (OS)

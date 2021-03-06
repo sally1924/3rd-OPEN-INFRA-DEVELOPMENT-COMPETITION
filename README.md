@@ -6,7 +6,7 @@
 
 ---
 
-팀 원 : [김범수](https://github.com/gh-BumsooKim)\* []()\*
+팀 원 : [김범수](https://github.com/gh-BumsooKim)\* [박채연](https://github.com/sally1924)\*
 <br>Art & Technology, CAU
 <br>(* equal contributions) 
 

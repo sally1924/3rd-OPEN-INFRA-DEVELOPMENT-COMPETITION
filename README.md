@@ -6,8 +6,10 @@
 
 ---
 
+### [Site]() | [Proposal]()
+
 팀 원 : [김범수](https://github.com/gh-BumsooKim)\* [박채연](https://github.com/sally1924)\* [황지우](https://github.com/jbr1tr)\*
-<br>Art & Technology, CAU
+School of Computer Art, CAU
 <br>(* equal contributions) 
 
 ### Environment

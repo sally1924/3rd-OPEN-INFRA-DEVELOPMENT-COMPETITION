@@ -8,9 +8,15 @@
 
 ### [Site]() | [Proposal]()
 
-팀 원 : [김범수](https://github.com/gh-BumsooKim)\* [박채연](https://github.com/sally1924)\* [황지우](https://github.com/jbr1tr)\*
+Title : 
+
+[김범수](https://github.com/gh-BumsooKim)<sup>1</sup>\* [박채연](https://github.com/sally1924)<sup>2</sup>\* [황지우](https://github.com/jbr1tr)<sup>3</sup>\*
 <br>School of Computer Art, CAU
 <br>(* equal contributions) 
+
+1) Deep Learning Network Design with Tensorflow
+2) System Integration with Gloud Platform
+3) Front-end web development
 
 ### Environment
 

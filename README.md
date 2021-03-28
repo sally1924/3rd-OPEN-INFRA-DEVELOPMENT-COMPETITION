@@ -20,7 +20,7 @@ Title :
 
 ### Environment
 
-- Ubuntu 18.04 LTS Server (OS)
-- WordPress
-- Python
-- PyTorch
+- Runtime Stack : python 3.7
+- OS : Linux
+- DB : mysql
+- Web : python-flask-bootstrap  
